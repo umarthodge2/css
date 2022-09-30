@@ -1,0 +1,23 @@
+p,h1
+{
+	font-size: 20px;
+	background-color: #ecc068;
+	padding: 10px;
+	font-weight:bold;
+}
+#p1
+{
+	color:red;
+}
+#p2
+{
+	color:#ECCAEF;
+}
+#p3
+{
+	color:rgb(211, 225, 73);
+}
+.under
+{
+	text-decoration:underline;
+}
